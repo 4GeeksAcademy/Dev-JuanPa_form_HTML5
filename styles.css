@@ -1,37 +1,22 @@
-
 * {
     font-family: "Press Start 2P", serif;
     font-weight: 400;
     font-style: normal;
     color: rgb(27, 133, 27);
 }
-  
-
-
-
-
-  
+    
 body {
-
 padding-top: 100px;
 padding-bottom: 30px;
-/*border: 1px solid rgb(39, 65, 214);*/
-
 }
 
-
-
-
-.box{
+.box {
     border: 1px solid rgb(30, 177, 17);
-    
     background: linear-gradient(to right, #233023, 
     #465e46, #1a351b, #213f1e, #18380d, #0d3802);
-
-    
 }
 
-#payment{
+#payment {
     background: linear-gradient(to left, #233023, 
     #3a3b3a, #454945, #253825, #363836, #303130);
 }
@@ -40,13 +25,11 @@ padding-bottom: 30px;
     background: linear-gradient(to right, #233023, 
     #2c4e2c, #70a371, #4f8b4a, #367521, #1a5f08);
     color: #8dd62d;
-
 }
 
-#report{
+#report {
     background: conic-gradient(from 0deg, #8bce34, #689e22, #8cdd22);
     color: white;
-
 }
 
 #cancel{
@@ -55,13 +38,12 @@ padding-bottom: 30px;
     color: white;
 }
 
-#send{
+#send {
     background: conic-gradient(from 0deg, #27472e, #3c864d, #064706);
     color: white;
 }
 
 #state{
     color: gray;
-
 }
 
